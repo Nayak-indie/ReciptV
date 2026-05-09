@@ -101,7 +101,7 @@ If you believe in simple tools solving real problems,
 you can support the project.
 
 📧 Contact for support/donations:  
-**your-email@example.com**
+**vinayakkghai@gmail.com**
 
 Even small support helps keep this alive ❤️
 
